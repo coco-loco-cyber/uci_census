@@ -8,3 +8,15 @@ at similiar conclusions for the data as a whole when looking at different variab
 comparison; at what point are you drifting from value in analysis and wasting time or resources to arrive at the same conclusion? 
 
 I am still new to data analysis and using python to do it. I am merely showcasing things I have worked on to document my journey. 
+
+#### Methodology
+
+1. Read the data and removed all quantitative variables.
+2. Plotted various Histograms to visualize the data and begin to understand it more.
+3. Wrote about initial observations. Data is not always clear, can be vague, or may be misleading. Important to note these.
+4. Cleaned the data set and identified a question to make of the data set.
+5. Created a function in Python to visualize the cleaned data set.
+6. Used Histogram plots to visualize the data. I cleaned up the graphs to make them more visually appealing than previous plots.
+7. My next steps involved filtering the data in various ways and calculating proportions to gain perspective of the data set.
+8. My next step will involve conducting the actual Chi-Squared testing using Python.
+9. (Dec 06, 2023)
