@@ -19,4 +19,9 @@ I am still new to data analysis and using python to do it. I am merely showcasin
 6. Used Histogram plots to visualize the data. I cleaned up the graphs to make them more visually appealing than previous plots.
 7. My next steps involved filtering the data in various ways and calculating proportions to gain perspective of the data set.
 8. My next step will involve conducting the actual Chi-Squared testing using Python.
-9. (Dec 06, 2023)
+9. Created frequency tables for data to be tested.
+10. Created a function for Chi-Square testing on variables to obtain P-Value.
+11. Test the significance of education on income for all races.
+12. The question is: Does education significantly impact income? 
+13. Chi-Square testing shows that the answer is, yes. 
+
